@@ -44,32 +44,32 @@ button {
   mask: none;
 }
 .card--ironman {
-  background-image: url(assets/images/backgrounds/avengersTower.png);
+  background-image: url(/images/backgrounds/avengersTower.png);
 }
 .card--ironman img {
-  -webkit-mask-image: url(assets/images/masks/mask3.svg);
-  mask-image: url(assets/images/masks/mask3.svg);
+  -webkit-mask-image: url(/images/masks/mask3.svg);
+  mask-image: url(/images/masks/mask3.svg);
 }
 .card--hulk {
-  background-image: url(assets/images/backgrounds/greenWall.jpg);
+  background-image: url(/images/backgrounds/greenWall.jpg);
 }
 .card--hulk img {
-  -webkit-mask-image: url(assets/images/masks/mask2.svg);
-  mask-image: url(assets/images/masks/mask2.svg);
+  -webkit-mask-image: url(/images/masks/mask2.svg);
+  mask-image: url(/images/masks/mask2.svg);
 }
 .card--captain-america {
-  background-image: url(assets/images/backgrounds/helicarrier.png);
+  background-image: url(/images/backgrounds/helicarrier.png);
 }
 .card--captain-america img {
-  -webkit-mask-image: url(assets/images/masks/mask4.svg);
-  mask-image: url(assets/images/masks/mask4.svg);
+  -webkit-mask-image: url(/images/masks/mask4.svg);
+  mask-image: url(/images/masks/mask4.svg);
 }
 .card--black-panther {
-  background-image: url(assets/images/backgrounds/wakanda.png);
+  background-image: url(/images/backgrounds/wakanda.png);
 }
 .card--black-panther img {
-  -webkit-mask-image: url(assets/images/masks/mask1.svg);
-  mask-image: url(assets/images/masks/mask1.svg);
+  -webkit-mask-image: url(/images/masks/mask1.svg);
+  mask-image: url(/images/masks/mask1.svg);
   -webkit-mask-size: contain;
   mask-size: contain;
 }
